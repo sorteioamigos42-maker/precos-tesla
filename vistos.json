@@ -190,5 +190,13 @@
     "preco": "27 500 €",
     "km": "82 300 km",
     "ano": "2023"
+  },
+  "PP_DDwpa": {
+    "site": "PiscaPisca",
+    "titulo": "Tesla Model 3 (PiscaPisca)",
+    "link": "https://www.piscapisca.pt/carros/usados/tesla-model-3-standard-range-eletrico/DDwpa",
+    "preco": "29 800 €",
+    "km": "49 500 km",
+    "ano": "2023"
   }
 }
