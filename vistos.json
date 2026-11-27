@@ -41,8 +41,8 @@
   },
   "SV_8Q152z": {
     "site": "Standvirtual",
-    "titulo": "Tesla Model 3 Standard Range Plus RWD",
-    "link": "https://www.standvirtual.com/carros/anuncio/tesla-model-3-ver-standard-range-plus-rwd-ID8Q152z.html",
+    "titulo": "Tesla Model 3",
+    "link": "https://www.standvirtual.com/carros/anuncio/tesla-model-3-ID8Q152z.html",
     "preco": "29 400 €",
     "km": "83 900 km",
     "ano": "2023"
@@ -59,7 +59,7 @@
     "site": "Standvirtual",
     "titulo": "Tesla Model 3 Long-Range Dual Motor AWD",
     "link": "https://www.standvirtual.com/carros/anuncio/tesla-model-3-ver-long-range-dual-motor-awd-ID8Q0ppv.html",
-    "preco": "29 750 €",
+    "preco": "29 490 €",
     "km": "93 000 km",
     "ano": "2023"
   },
@@ -237,6 +237,14 @@
     "link": "https://www.standvirtual.com/carros/anuncio/tesla-model-3-ver-long-range-rwd-ID8Q1qtS.html",
     "preco": "29 500 €",
     "km": "94 000 km",
+    "ano": "2023"
+  },
+  "SV_8Q15Lm": {
+    "site": "Standvirtual",
+    "titulo": "Tesla Model 3 Standard Range Plus RWD",
+    "link": "https://www.standvirtual.com/carros/anuncio/tesla-model-3-ver-standard-range-plus-rwd-ID8Q15Lm.html",
+    "preco": "29 900 €",
+    "km": "84 802 km",
     "ano": "2023"
   }
 }
